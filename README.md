@@ -221,49 +221,49 @@ For major changes, please open an issue first to discuss what you would like to 
 
 **Main Screen**
 
-![Screenshot](Ai Resume\AI-Resume-Analyzer\screenshots\main_screen.png)
+![Screenshot](screenshots\main_screen.png)
 
 **Resume Analysis**
 
-![Screenshot](Ai Resume\AI-Resume-Analyzer\screenshots\resume_analysis.png)
+![Screenshot](screenshots\resume_analysis.png)
 
 **Skill Recommendation**
 
-![Screenshot](Ai Resume\AI-Resume-Analyzer\screenshots\skill recommendation.png)
+![Screenshot](screenshots\skill recommendation.png)
 
 **Course Recommendation**
 
-![Screenshot](Ai Resume\AI-Resume-Analyzer\screenshots\course_recommendation.png)
+![Screenshot](screenshots\course_recommendation.png)
 
 **Tips and Overall Score**
 
-![Screenshot](Ai Resume\AI-Resume-Analyzer\screenshots\resume_score.png)
+![Screenshot](screenshots\resume_score.png)
 
 **Video Recommendation**
 
-![Screenshot](Ai Resume\AI-Resume-Analyzer\screenshots\video_recommendation.png)
+![Screenshot](screenshots\video_recommendation.png)
 
 ### Feedback
 
 **Feedback Form**
 
-![Screenshot](Ai Resume\AI-Resume-Analyzer\screenshots\feedback.png)
+![Screenshot](screenshots\feedback.png)
 
 ### Admin
 
 **Login**
 
-![Screenshot](Ai Resume\AI-Resume-Analyzer\screenshots\admin.png)
+![Screenshot](screenshots\admin.png)
 
 **Exported csv file**
 
-![Screenshot](Ai Resume\AI-Resume-Analyzer\screenshots\csv.png)
+![Screenshot](screenshots\csv.png)
 
 
 **Pie Chart Analytical Representation of Clusters**
 
-![Screenshot](Ai Resume\AI-Resume-Analyzer\screenshots\Screenshot 2026-07-25 010950.png)
+![Screenshot](screenshots\Screenshot 2026-07-25 010950.png)
 
-![Screenshot](Ai Resume\AI-Resume-Analyzer\screenshots\Screenshot 2026-07-25 011005.png)
+![Screenshot](screenshots\Screenshot 2026-07-25 011005.png)
 
 ### Built with 🤍 by <a href="https://github.com/TishaRathore11">Tisha Rathore</a>
