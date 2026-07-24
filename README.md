@@ -221,49 +221,48 @@ For major changes, please open an issue first to discuss what you would like to 
 
 **Main Screen**
 
-![Screenshot](screenshots\main_screen.png)
+![Screenshot](./screenshots/main_screen.png)
 
 **Resume Analysis**
 
-![Screenshot](screenshots\resume_analysis.png)
+![Screenshot](./screenshots/resume_analysis.png)
 
 **Skill Recommendation**
 
-![Screenshot](screenshots\skill recommendation.png)
+![Screenshot](./screenshots/skill_recommendation.png)
 
 **Course Recommendation**
 
-![Screenshot](screenshots\course_recommendation.png)
+![Screenshot](./screenshots/course_recommendation.png)
 
 **Tips and Overall Score**
 
-![Screenshot](screenshots\resume_score.png)
+![Screenshot](./screenshots/resume_score.png)
 
 **Video Recommendation**
 
-![Screenshot](screenshots\video_recommendation.png)
+![Screenshot](./screenshots/video_recommendation.png)
 
 ### Feedback
 
 **Feedback Form**
 
-![Screenshot](screenshots\feedback.png)
+![Screenshot](./screenshots/feedback.png)
 
 ### Admin
 
 **Login**
 
-![Screenshot](screenshots\admin.png)
+![Screenshot](./screenshots/admin.png)
 
 **Exported csv file**
 
-![Screenshot](screenshots\csv.png)
-
+![Screenshot](./screenshots/csv.png)
 
 **Pie Chart Analytical Representation of Clusters**
 
-![Screenshot](screenshots\Screenshot 2026-07-25 010950.png)
+![Screenshot](./screenshots/pie_chart_1.png)
 
-![Screenshot](screenshots\Screenshot 2026-07-25 011005.png)
+![Screenshot](./screenshots/pie_chart_2.png)
 
 ### Built with 🤍 by <a href="https://github.com/TishaRathore11">Tisha Rathore</a>
