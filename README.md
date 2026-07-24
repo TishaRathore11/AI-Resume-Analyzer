@@ -261,8 +261,8 @@ For major changes, please open an issue first to discuss what you would like to 
 
 **Pie Chart Analytical Representation of Clusters**
 
-![Screenshot](./screenshots/pie_chart_1.png)
+![Screenshot](./screenshots/pie_chart1.png)
 
-![Screenshot](./screenshots/pie_chart_2.png)
+![Screenshot](./screenshots/pie_chart2.png)
 
 ### Built with 🤍 by <a href="https://github.com/TishaRathore11">Tisha Rathore</a>
